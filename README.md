@@ -10,6 +10,22 @@ Welcome to the Ecommerce Sales Dashboard project! This dashboard, built using Po
 
 **Used different types of customized  visualization (bar chart, pie chart , donut chart , clustered bar chart , scatter chart , line chart , arrea chart and sclicers etc.
 
+Project insights
+
+Highest profit in the month of november , january and febuary 
+
+ loss in  the month of may and july
+
+ Most of the selling states are maharashtra , madhya pradesh and uttar pradesh
+
+ around 44% people order cash on delivery
+
+ most of the selling product is clothing , electronics and furniture 
+
+ High profitable products are printer , book,cases and saree.
+
+ our top customer name is harivansh , madhav , madan mohan
+
 
 We welcome contributions to improve this dashboard! Here are some ways you can contribute:
 
